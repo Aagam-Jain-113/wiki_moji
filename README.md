@@ -2,6 +2,8 @@
 
 This is a simple react app created to find meaning of emojis.
 
+## Live: http://wiki-moji.netlify.app/
+
 ## Technologies used
 <p float="left">
  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg"  width="64" height="64" style="width:100%">
